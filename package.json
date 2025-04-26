@@ -1,6 +1,6 @@
 {
   "name": "@blaahaj/dropbox-hacking-mover",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Move files in Dropbox, handling rate limits etc",
   "main": "index.js",
   "scripts": {
