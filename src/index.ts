@@ -1,5 +1,5 @@
-import { Dropbox, files } from "dropbox";
 import { GlobalOptions } from "@blaahaj/dropbox-hacking-util";
+import { Dropbox, files } from "dropbox";
 
 type Entry = {
   job: files.RelocationPath;
